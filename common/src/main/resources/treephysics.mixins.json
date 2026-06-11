@@ -19,7 +19,9 @@
     "walk_through_leaves.BlockCollisionsMixin",
     "walk_through_leaves.BlockStateBaseMixin",
     "walk_through_leaves.LivingEntityMixin",
-    "walk_through_leaves.SubLevelEntityCollisionMixin"
+    "walk_through_leaves.SubLevelEntityCollisionMixin",
+    "compatibility.cobblemon.ApricornTreeFeatureMixin",
+    "compatibility.cobblemon.SaccharineTreeFeatureMixin"
   ],
   "client": [
     "accessors.SpriteContentsAccessor",
